@@ -1,0 +1,77 @@
+SOFTWARE LICENSE AGREEMENT
+(SMSC Programs: OBJ-UFXx000-XLINUX
+For use with SMSC UFX6000 and UFX7000 products)
+
+YOU (THE INDIVIDUAL CLICKING ON THE ACCEPT BUTTON BELOW) FOR YOURSELF OR ANY ENTITY FOR WHOM YOU ARE AN EMPLOYEE OR AGENT AND WHICH OBTAINS THE SOFTWARE MADE THE SUBJECT OF THIS SOFTWARE LICENSE AGREEMENT, AGREE TO THE TERMS AND CONDITIONS OF THIS SOFTWARE LICENSE AGREEMENT (REFERRED TO AS THIS AGREEMENT or “Agreement”) BY EITHER (1) CLICKING ON THE “ACCEPT” BUTTON BELOW, OR (2) ACCESSING OR USING ANY OF SUCH SOFTWARE PROGRAMS OR CODE. PLEASE READ THIS AGREEMENT BEFORE CLICKING ON THE “ACCEPT” BUTTON. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, PLEASE DO NOT CLICK ON THE “ACCEPT” BUTTON.
+
+BY CLICKING ON THE “ACCEPT” BUTTON BELOW, YOU (THE INDIVIDUAL CLICKING ON THE ACCEPT BUTTON BELOW) ALSO REPRESENT AND WARRANT THAT YOU ARE AUTHORIZED TO BIND TO THE TERMS AND CONDITIONS OF THIS AGREEMENT ANY ENTITY FOR WHOM YOU ARE AN EMPLOYEE OR AGENT AND WHICH OBTAINS THE SOFTWARE PURSUANT TO SUCH ACTION (HEREINAFTER REFERRED TO AS “Licensee”).
+
+WHEREAS, Licensee desires to obtain from Standard Microsystems Corporation, a Delaware corporation (hereinafter referred to as “SMSC”), and SMSC desires to grant to Licensee a limited license to use, and to distribute IN MACHINE READABALE OBJECT CODE FORM ONLY, the SMSC Programs, as defined below, solely for use in conjunction with the SMSC Products, as defined below, subject to the terms and conditions set forth in this Agreement.
+
+NOW THEREFORE, in consideration of the premises and of the mutual covenants contained herein, the parties agree as follows:
+
+1. DEFINITIONS
+
+1.1. “SMSC Programs" means the computer software programs identified as “SMSC Programs” immediately below the title of this Agreement above, any and all updates, upgrades, modifications, revisions, and enhancements to and new versions of such programs and/or documentation to the extent, if any, provided by SMSC to Licensee; and each and every copy of such programs, documentation, updates, upgrades, modifications, revisions, enhancements, and new versions.
+
+1.2. "SMSC Products" means those SMSC integrated circuit devices identified immediately below the title of this Agreement above.
+
+1.3. “End-User License Agreement” means a software license agreement applicable to any and all SMSC Programs which are provided to any end users directly or indirectly by Licensee, and which protects the SMSC Programs and SMSC's rights, and limits SMSC’s liability, to at least the same degree as this Agreement.
+
+1.4. “Territory” means worldwide, subject, however, to Section 7.1, Export Restriction and Assurances.
+
+
+2. GRANT OF LICENSE
+
+2.1. Conditioned upon Licensee's compliance with the terms and conditions of this Agreement, SMSC grants to Licensee, for the term of this Agreement only, a nonexclusive, nontransferable license to use and distribute (through multiple layers of distribution) the SMSC Programs in machine-readable object code format for use with the SMSC Products in the Territory.
+
+2.2. Licensee's distribution of the SMSC Programs is conditioned upon Licensee obtaining (or causing its distributors to obtain) an End-User License Agreement wherein the end-users agrees at least (1) not to decompile, disassemble, reverse engineer, or otherwise attempt to obtain or derive source code for the SMSC Program; and (2) that in no event shall SMSC be liable for any damages related to the use of the SMSC Programs.
+
+2.3. Title to each SMSC Program and each copy thereof remains with SMSC or its supplier of such SMSC Program. All copyrights, trademarks, patents, trade secrets and other intellectual and industrial property rights pertaining to each SMSC Program of SMSC or its supplier of such SMSC Program, are, and remain, the valuable property of SMSC or such supplier. No title or ownership of any kind are transferred to Licensee or any other person or entity. No license is granted by SMSC expressly, by implication, by estoppel or otherwise, under any patent.
+
+3. TECHNICAL PROBLEMS IN DOWNLOADING; WARRANTY DISCLAIMER AND INDEMNIFICATION BY LICENSEE; NO SUPPORT OR MAINTENANCE
+
+3.1. SMSC MAKES NO WARRANTIES. SMSC DISCLAIMS AND EXCLUDES ANY AND ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY AND ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND ANY AND ALL WARRANTIES ARISING FROM ANY COURSE OF DEALING OR USAGE OF TRADE. THE SMSC PROGRAMS ARE NOT DESIGNED, INTENDED OR AUTHORIZED FOR USE IN ANY LIFE SUPPORT OR OTHER APPLICATION WHERE PRODUCT FAILURE COULD CAUSE OR CONTRIBUTE TO PERSONAL INJURY OR SUBSTANTIAL PROPERTY DAMAGE. IF LICENSEE OR ANY OF ITS DIRECT OR INDIRECT CUSTOMERS APPLIES ANY SMSC PROGRAM TO ANY SUCH UNINTENDED OR UNAUTHORIZED USE, LICENSEE SHALL INDEMNIFY AND HOLD SMSC, ITS AFFILIATES AND THEIR RESPECTIVE SUPPLIERS, HARMLESS AGAINST ALL CLAIMS, COSTS, DAMAGES AND EXPENSES ARISING, DIRECTLY OR INDIRECTLY, OUT OF ANY SUCH UNINTENDED OR UNAUTHORIZED USE, EVEN IF SUCH CLAIM ALLEGES THAT SMSC OR ANY OTHER PERSON OR ENTITY WAS NEGLIGENT IN DESIGNING OR MANUFACTURING THE SMSC PROGRAM.
+
+3.2. The SMSC Programs are provided without support or maintenance. Licensee shall not, under any circumstances, direct its customers to SMSC for purposes of support or maintenance. SMSC reserves the right to modify or create future versions of the SMSC Programs and not offer such changes or future versions to Licensee.
+
+4. TAXES
+
+4.1. Licensee shall pay all taxes and charges of any kind imposed by federal, state or local governments with respect to this Agreement or the licensing, delivery, use, or exercise of any licenses granted in this Agreement, of or with respect to the SMSC Programs.
+
+5. PROPRIETARY RIGHTS; CONFIDENTIALITY
+
+5.1. Licensee shall not decompile, disassemble, reverse engineer, or otherwise attempt to obtain or derive source code for the SMSC Program, remove any copyright or other proprietary rights notices or legends in or on any SMSC Programs, and shall reproduce and include such copyright and other proprietary rights notices and legends in any and all copies of the SMSC Programs made pursuant to this Agreement.
+
+5.2. All trademarks, service marks, trade names, logos or other words or symbols identifying any SMSC products or services, or SMSC's business, are and will remain the exclusive property of SMSC or its suppliers or licensors as the case may be. No license is granted with respect thereto, and Licensee shall not use any of them without receiving SMSC's advance written approval to do so.
+
+6. TERM, TERMINATION AND DEFAULT
+
+6.1. The term of this Agreement shall begin on the Effective Date and shall extend until this Agreement is terminated pursuant to the terms and conditions hereof..
+
+6.2. This Agreement will automatically terminate if at any time Licensee is in default of this Agreement. If any of the following shall occur Licensee shall be in material default of this Agreement: (a) Licensee fails to timely perform or comply with any of its duties or obligations under this Agreement; (b) Licensee is or becomes insolvent, or there is filed by or against Licensee in any court, pursuant to any statute either of the United States or of any state or municipality, a petition in bankruptcy, or for reorganization, or for the appointment of a receiver or trustee of all or portion of Licensee's property; or Licensee makes an assignment for the benefit of creditors.
+
+6.3. Upon any termination or expiration of this Agreement the licenses granted to Licensee shall terminate, and Licensee shall cease all use and distribution of, and cease exercising any and all other licenses and rights granted under this Agreement with respect to, the SMSC Programs, except that licenses rightfully granted to distributors and end user in accordance with Section 2.1 prior to termination of this Agreement shall survive in accordance with their respective terms.
+
+7. EXPORT RESTRICTION AND ASSURANCES
+
+7.1. Licensee agrees, and hereby assures SMSC, that Licensee will not export, re-export, or permit the export or re-export of, any SMSC Programs or any related technical documentation provided by SMSC, or any product incorporating or derived therefrom, without first complying with the export, re-export and record keeping requirements required by the United States government's laws and regulations, including but not limited to the United States Export Administration Regulations.
+
+8. GENERAL TERMS AND CONDITIONS
+
+8.1. The parties are independent contractors. This Agreement does not constitute a partnership agreement, nor does it create a joint venture, partnership, or agency relationship between the parties, and neither party shall hold itself out to the contrary. Neither party is authorized to bind the other or incur any liability on behalf of the other.
+
+8.2. No waiver, amendment or modification of any provision of this Agreement shall be effective unless in writing and signed by the party against whom the waiver, amendment or modification is sought to be enforced. No failure or delay by SMSC in exercising any right, power or remedy under this Agreement shall operate as a waiver of the right, power or remedy. No waiver by SMSC of any term, condition or default of this Agreement shall be construed as a waiver of any other term, condition or default.
+
+8.3. This Agreement is made in Suffolk County, New York, U.S.A. and shall be governed by the laws of the State of New York as applied with respect to contracts entered into in New York by New York residents to be performed entirely within New York excluding any law or principle which would apply the law of any other jurisdiction. Each of the parties to this Agreement hereby submits to the exclusive jurisdiction of the state and federal courts sitting in Suffolk County, New York for purposes of any suit or action arising out of this Agreement or any breach thereof, or the commercial or economic relationship of the parties arising from or contemplated by this Agreement. each of the parties to this agreement agrees that any such suit or action brought by or on behalf of it shall be brought only in the state or federal courts sitting in Suffolk County, New York and heard exclusively by such courts.
+
+8.4. The headings of this Agreement and its sections are intended as a convenience only and shall not affect interpretation of its provisions.
+
+8.5. In no event shall SMSC shall be liable for any failure or delay caused by any of the following: force majeure or any other cause beyond SMSC’s control; an act of God; war; riot; fire; terrorism; civil disturbance; explosion; accident; earthquake; flood; sabotage; inability to obtain or shortage of fuel, power, supplies, components, subassemblies or material; inability to obtain transportation; failures of non-affiliate subcontractors; or governmental laws, rules, regulations or orders.
+
+8.6. This Agreement constitutes the complete and final agreement between the parties, and supersedes any and all prior negotiations and agreements between the parties concerning its subject matter. The interpretation of this Agreement may not be explained or supplemented by any course of dealing or performance. If any one or more provisions contained in this Agreement should for any reason be held to be unenforceable by a court of competent jurisdiction, such unenforceability shall not affect any other provision of this Agreement, but this Agreement shall be construed and interpreted as if such unenforceable provision had not been contained herein.
+
+8.7. IN NO EVENT SHALL SMSC BE LIABLE FOR ANY INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES; OR FOR LOST DATA, PROFITS, SAVINGS OR REVENUES OF ANY KIND; REGARDLESS OF THE FORM OF ACTION, WHETHER BASED ON CONTRACT; TORT; NEGLIGENCE OF SMSC OR OTHERS; STRICT LIABILITY; BREACH OF WARRANTY; OR OTHERWISE; WHETHER OR NOT ANY REMEDY OF LICENSEE IS HELD TO HAVE FAILED OF ITS ESSENTIAL PURPOSE, AND WHETHER OR NOT SMSC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+
